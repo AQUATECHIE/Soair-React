@@ -27,7 +27,7 @@ function Screen(){
 
     return(
         <>
-            <p> window width: { width}px </p>
+            <p> window width: {width}px </p>
             <p> window height: {height}px </p>
         </>
 

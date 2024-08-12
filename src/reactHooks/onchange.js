@@ -2,7 +2,7 @@ import { useState } from "react";
 
 
 function ChangeButton (){
-    const [change, setChange] = useState("")
+    const [change, setChange] = useState("guest")
 
     const handleChange = (event) =>{
         setChange(event.target.value)
