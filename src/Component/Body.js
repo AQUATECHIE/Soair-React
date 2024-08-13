@@ -1,4 +1,4 @@
-import '../Component/'
+
 
 function Body(){
     return(
