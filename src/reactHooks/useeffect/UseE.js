@@ -17,7 +17,7 @@ function UseE () {
         setCount(count - 1)
     }
     const changecolo = () =>{
-        setColor(count => count === 'green' ? "red " : "green")
+        setColor(color => color === 'green' ? "green " : "red")
     }
 
     return(

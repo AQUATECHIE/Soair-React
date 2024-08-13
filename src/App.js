@@ -3,13 +3,15 @@
 // import Color from "./Color.js";
 // import UseE from "./reactHooks/useeffect/UseE.js";
 // import Screen from "./reactHooks/useeffect/Screen.js";
-import Clock from "./reactHooks/useeffect/Clock.js";
+// import Clock from "./reactHooks/useeffect/Clock.js";
+import Pages from "./Page.js";
 
 function App() {
   return (
     <>
-      <Clock />
-      {/* <Use />
+      <Pages />
+      {/* <Clock />
+      <Use />
       <ChangeButton />
       <br/>
       <Color />

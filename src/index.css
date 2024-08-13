@@ -1,0 +1,12 @@
+.navbar{
+    background-color: aqua;
+    display: flex;
+}
+ul{
+    display: flex;
+}
+.body{
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+}
