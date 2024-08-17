@@ -10,3 +10,7 @@ ul{
     width: 400px;
     height: 400px;
 }
+.Box{
+    border:  2px solid red;
+    padding: 50px;
+}
