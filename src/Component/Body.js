@@ -3,7 +3,7 @@
 function Body(){
     return(
         <>
-            <div className="body"> Hello world </div>
+            <div className="body"> Hello worl </div>
         </>
     );
 }
